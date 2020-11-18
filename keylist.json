@@ -1,0 +1,24 @@
+{
+  "metadata": {
+    "signature_uri": "https://github.com/equalitie/eQ/blob/main/keylist.json.asc",
+    "comment": "eQualitie GPG auth file"
+  },
+  "keys": [
+    {
+      "fingerprint": "676511E933AC3F9D1A4B0AAC7110EACE6FF1895D",
+      "name": "Dmitri",
+      "email": "dmitri@equalit.ie",
+      "comment": "Dmitri's public key"
+    },
+    {
+      "fingerprint": "40F21506F10946D6B998418D7567F6C554AA2A6F",
+      "name": "Kevork",
+      "email": "kevork@equalit.ie"
+    },
+    {
+      "fingerprint": "967BA6B7D0FE63E3702F27A28306820AC04B8F10",
+      "name": "Joe",
+      "email": "joe@equalit.ie"
+    }
+  ]
+}
