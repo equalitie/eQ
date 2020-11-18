@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "signature_uri": "https://github.com/equalitie/eQ/blob/main/keylist.json.asc",
+    "signature_uri": "https://raw.githubusercontent.com/equalitie/eQ/main/keylist.json.asc",
     "comment": "eQualitie GPG auth file"
   },
   "keys": [
